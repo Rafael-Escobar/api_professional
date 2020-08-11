@@ -2,8 +2,8 @@
 
     DO ZERO A PRODUÇÃO: APRENDA A CONSTRUIR UMA API NODE.JS COM TYPESCRIPT.
 
-- (Curso)[https://www.nodejs-typescript-api.com/curso-gratis/]
-- (Vídeos Youtube)[https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&index=1]
+- [Curso](https://www.nodejs-typescript-api.com/curso-gratis/)
+- [Vídeos Youtube](https://www.youtube.com/watch?v=W2ld5xRS3cY&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&index=1)
 
 ## 9 CAPÍTULOS E MAIS DE 20 HORAS DE CURSO!
 
