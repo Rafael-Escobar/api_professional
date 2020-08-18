@@ -15,7 +15,7 @@
     "alwaysStrict": true,
     "removeComments": true,
     "noImplicitReturns": true,
-    "esModuleInterop": false,
+    "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "baseUrl": ".",
     "paths": {
